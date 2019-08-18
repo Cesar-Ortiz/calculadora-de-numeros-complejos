@@ -60,4 +60,13 @@ def carte_pol(a):
     c=math.atan(a[1]/a[0])
     return impri(b,c)
 
-
+#Hallar la fase de un numero complejo
+def fase(a):
+    if a[0] > 0 and a[1] > 0:
+        return 1
+    elif a[0] > 0 and a[1] < 0:
+        return 4
+    elif a[0] < 0 and a[1] > 0:
+        return 2
+    elif a[0] < 0 and a[1] < 0:
+        return 3
