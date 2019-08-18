@@ -26,5 +26,8 @@ class unit_calculadoracomple(unittest.TestCase):
     def test_carte_pol(self):
         self.assertEqual(calculadoracomple.carte_pol((1, -1)), [1.4142135623730951, -0.7853981633974483])
 
+    def test_fase(self):
+        self.assertEqual(calculadoracomple.fase((1, -1)),4)
+        
 if True:
     unittest.main()
