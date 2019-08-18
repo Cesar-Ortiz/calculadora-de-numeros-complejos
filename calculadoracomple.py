@@ -1,6 +1,8 @@
 import sys
 import math
 
+#En estes archivo estan contenidas las operaciones basicas de los numeros complejos
+
 def suma(a,b):
     c=a[0]+b[0]
     d=a[1]+b[1]
