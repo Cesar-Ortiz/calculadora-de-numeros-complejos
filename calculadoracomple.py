@@ -61,6 +61,7 @@ def carte_pol(a):
     return impri(b,c)
 
 #Hallar la fase de un numero complejo
+#El resultado que arroja es el cuadrante al cual pertenece este numero complejo
 def fase(a):
     if a[0] > 0 and a[1] > 0:
         return 1
