@@ -1,6 +1,8 @@
 import unittest
 import calculadoracomple
 
+#Aqui se pondra a prueba las operaciones hechas anteriormente mediante el unittest de python
+
 class unit_calculadoracomple(unittest.TestCase):
 
     def test_suma(self):
