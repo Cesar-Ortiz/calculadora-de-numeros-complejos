@@ -9,6 +9,7 @@ Descripción
 Es una librería realiza las siguientes operaciones entre números complejos:
 
 Operaciones básicas:
+
 • Suma
 • Resta
 • Producto
@@ -18,6 +19,7 @@ Operaciones básicas:
 • Conversión entre representaciones polar y cartesiano
 • Retornar la fase de un número complejo
 Vectores:
+
 • Adición de vectores complejos.
 • Inversa de vectores complejos.
 • Multiplicación escalar de vectores complejos.
@@ -25,6 +27,7 @@ Vectores:
 • Producto interno de vectores complejos.
 • Norma de vectores complejos.
 Matrices:
+
 • Adición de matrices complejos.
 • Inversa de matrices complejos.
 • Multiplicación escalar de matrices complejas.
