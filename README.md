@@ -3,16 +3,23 @@ Librería Computación Cuántica: Números Complejos
 ***Encabezado:***
 
 CNYT 
+
 Librería computación cuántica
+
 Ingeniería de Sistemas
+
 Septiembre – 2019
+
 Escuela Colombiana de Ingeniería Julio Garavito, Bogotá
+
 César Fernando Ortiz Rocha
 
 ***Descripción:***
+
 Es una librería realiza las siguientes operaciones entre números complejos:
 
 **Operaciones básicas:**
+
 • Suma
 
 • Resta
@@ -32,6 +39,7 @@ Es una librería realiza las siguientes operaciones entre números complejos:
 
 
 **Vectores:**
+
 • Adición de vectores complejos.
 
 • Inversa de vectores complejos.
@@ -45,6 +53,7 @@ Es una librería realiza las siguientes operaciones entre números complejos:
 • Norma de vectores complejos.
 
 **Matrices:**
+
 • Adición de matrices complejos.
 
 • Inversa de matrices complejos.
@@ -68,4 +77,5 @@ Es una librería realiza las siguientes operaciones entre números complejos:
 • Producto tensorial de matrices complejas.
 
 ***Como utilizarla:***
+
 En la librería se muestra cada una de las funciones respectivas a cada operación.Los resultados se verifican a través de pruebas de unidad que permiten comparar el resultado real con el resultado obtenido a través de las funciones de la librería.
